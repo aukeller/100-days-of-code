@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 10, 2021 (Example 1)
+### Day 0: February 10, 2021
 
 
 **Today's Progress**: Decided to brush up on some JS skills. Need to adjust a little bit after going at it with Flask/Python. Currently doing freeCodeCamp's JS Basics section. 
