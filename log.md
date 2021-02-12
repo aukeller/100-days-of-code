@@ -9,3 +9,13 @@
 
 **Link to work:** [freeCodeCamp's JS Basics](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript)
 
+
+### Day 1: February 11, 2021
+
+
+**Today's Progress**: Finished freeCodeCamp's JS Basics, definitely helped catch me up to speed. Started reading up more on objects and object constructors!
+
+**Thoughts:** I'm excited to learn more about objects and OOP with JS
+
+**Link to work:** [Odin Project Objects and Object Constructors](https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors)
+
