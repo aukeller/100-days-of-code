@@ -19,3 +19,13 @@
 
 **Link to work:** [Odin Project Objects and Object Constructors](https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors)
 
+
+### Day 0: February 16, 2021
+
+
+**Today's Progress**: Starting over wasn't due to laziness, just forgetfulness of logging. Just started learning the very basics of factory functions and modules, as well as closure and scope. Also began a tic-tac-toe project.
+
+**Thoughts:** Moving into this new territory is a bit intimidating, but I'm sure it will click after practice.
+
+**Link to work:** [Odin Project Tic-Tac-Toe](https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript)
+
